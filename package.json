@@ -1,0 +1,9 @@
+{
+  "name": "canvas-noop",
+  "version": "1.0.0",
+  "description": "No-op node canvas module",
+  "main": "index.js",
+  "repository": "https://github.com/dwickern/canvas-noop",
+  "author": "Derek Wickern <dwickern@gmail.com>",
+  "license": "MIT"
+}

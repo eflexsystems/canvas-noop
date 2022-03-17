@@ -1,5 +1,5 @@
 {
-  "name": "canvas-noop",
+  "name": "@eflexsystems/canvas-noop",
   "version": "1.0.0",
   "description": "No-op node canvas module",
   "main": "index.js",
